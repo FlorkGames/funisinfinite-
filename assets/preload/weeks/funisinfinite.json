@@ -1,0 +1,32 @@
+{
+	"storyName": "FUN is infinite",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"BOUNCE",
+			"majin",
+			[
+				126,
+				53,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "fun is infinite",
+	"hiddenUntilUnlocked": false
+}
