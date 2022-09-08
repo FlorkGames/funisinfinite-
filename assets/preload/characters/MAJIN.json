@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "majin groove"
+		},
+		{
+			"offsets": [
+				0,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "majin note left"
+		},
+		{
+			"offsets": [
+				6,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "majin note down"
+		},
+		{
+			"offsets": [
+				0,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "majin note up"
+		},
+		{
+			"offsets": [
+				-12,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "majin note right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/majin",
+	"position": [
+		260,
+		510
+	],
+	"healthicon": "majin",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		144
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6,
+	"scale": 6
+}

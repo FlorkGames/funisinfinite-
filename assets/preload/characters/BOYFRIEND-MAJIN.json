@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bf groove",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bf note left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				0
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "bf left miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				0
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "bf up miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				6
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bf note up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bf note right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				0
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "bf right miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-6
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bf note down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				0
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "bf down miss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/boyfriend-majin",
+	"position": [
+		150,
+		580
+	],
+	"healthicon": "bfM",
+	"flip_x": true,
+	"healthbar_colors": [
+		72,
+		36,
+		144
+	],
+	"camera_position": [
+		50,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 6
+}
