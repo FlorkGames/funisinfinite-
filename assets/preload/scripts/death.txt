@@ -1,0 +1,3 @@
+firstDeath
+deathLoop
+deathConfirm
